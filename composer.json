@@ -1,0 +1,16 @@
+{
+    "name": "igor/teste-postgre-sql",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Igor\\TestePostgreSql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "igormenuncin",
+            "email": "igormenuncin@gmail.com"
+        }
+    ],
+    "require": {}
+}
